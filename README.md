@@ -1,3 +1,5 @@
+Live Demo # https://sannansarwer.github.io/js-simple-calculator/
+
 # Calculator App
 
 A simple calculator built using:
